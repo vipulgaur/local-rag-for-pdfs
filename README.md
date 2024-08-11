@@ -18,8 +18,7 @@ To run this application, you'll need to set up a Python environment and install 
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/vipulgaur/local-rag-for-pdfs.git
     ```
 
 2. **Create a virtual environment** (optional but recommended):
