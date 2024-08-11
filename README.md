@@ -1,5 +1,9 @@
 
-Demo images/demo.mp4
+
+
+https://github.com/user-attachments/assets/2cc06b61-a347-4999-80aa-a095933ffea2
+
+
 
 # RAG - Retrieval-Augmented Generation - Application with Streamlit UI
 
