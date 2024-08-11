@@ -104,6 +104,5 @@ Feel free to open issues or submit pull requests. Your contributions are welcome
 ## Contact
 
 For any questions or feedback, please contact 
-Email: hirevipulgaur@gmail.com
-
-LinkedIn: https://linkedin.com/vipulgaur10 
+    - Email: hirevipulgaur@gmail.com
+    - LinkedIn: https://linkedin.com/vipulgaur10 
