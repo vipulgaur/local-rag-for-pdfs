@@ -1,0 +1,10 @@
+ollama~=0.3.1
+langchain_community
+langchain~=0.2.12
+langchain_core
+streamlit~=1.37.1
+pdfplumber~=0.11.3
+sentence-transformers
+transformers
+numpy~=1.26.4
+faiss-cpu  # If you are using the CPU version. For GPU, use faiss-gpu.
