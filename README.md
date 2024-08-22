@@ -43,7 +43,7 @@ To run this application, you'll need to set up a Python environment and install 
 
 1. **Start the Streamlit app**:
     ```bash
-    streamlit run app.py
+    streamlit run rag_app.py
     ```
 
 2. **Access the app**: Open your web browser and navigate to `http://localhost:8501`.
